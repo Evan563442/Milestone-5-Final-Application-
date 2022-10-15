@@ -1,1 +1,1 @@
-# NewRepo
+# A Project for School
